@@ -1,0 +1,5 @@
+﻿<linker>
+  <assembly fullname="ToDoList">
+    <type fullname="*" required="true" />
+  </assembly>
+</linker>
